@@ -38,6 +38,42 @@
 </p>
 <br />
 
+<a href="https://raw.githubusercontent.com/omeans-team/omeans-team/master/license.txt"><img src="https://img.shields.io/github/license/jaid/action-npm-install?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/omeans-team"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor omeans-team"/></a>  
+<a href="https://actions-badge.atrox.dev/omeans-team/omeans-team/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Faction-npm-install%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/action-npm-install/commits"><img src="https://img.shields.io/github/commits-since/jaid/action-npm-install/v1.2.4?style=flat-square&logo=github" alt="Commits since v1.2.4"/></a> <a href="https://github.com/jaid/action-npm-install/commits"><img src="https://img.shields.io/github/last-commit/jaid/action-npm-install?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/action-npm-install/issues"><img src="https://img.shields.io/github/issues/jaid/action-npm-install?style=flat-square&logo=github" alt="Issues"/></a>  
+
+**GitHub Action for installing Node dependencies from package.json with the correct package manager automatically selected.**
+
+
+This is usually needed to prepare for other steps in a GitHub Actions workflow.
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#toc-generation-with-github-actions">TOC generation with Github Actions</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="### Use To Code">## Use To Code</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 <!-- About Section -->
  # About me
  
@@ -54,6 +90,87 @@
 <br/>
 <br/>
 <br/>
+
+TOC generation with Github Actions
+----------------------------------
+## How To Ask or Request
+### 1. For omeans-team.github.io
+
+<p align="left">
+  <a href="https://omeans-team.github.io/" target="_blank"><img alt="For this website (https://omeans-team.github.io/)" title="For this website (https://omeans-team.github.io/)" src="https://img.shields.io/badge/-For%20this%20website%20Omeans%20Team-e47909?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+<br>
+
+**Click this [link](https://github.com/omeans-team/omeans-team.github.io/issues)**
+<br>
+<br>
+
+**Click New Issue**
+<br>
+![image](https://github.com/omeans-team/omeans-team/assets/47584746/7793a89f-47e9-4cb4-be4d-a1d06c3de01c)
+<br>
+<br>
+
+**Add title and description**
+<br>
+![image](https://github.com/omeans-team/omeans-team/assets/47584746/f9fd64c1-61c8-42e8-96cb-ba1b79924596)
+<br>
+<br>
+
+**Format title in below  :**
+```bash
+# Format (Sentence case label - Sentence case title)
+[Name_label] - Title
+
+*Name_label : Bug/Improvement/New Feature/Question/Request
+Example :
+[Improvement] - Improve navigation
+```
+
+<br/>
+<br/>
+
+### 2. For anything
+
+<p align="left">
+  <a href="https://github.com/omeans-team" target="_blank"><img alt="For anything" title="For anything" src="https://img.shields.io/badge/-For%20anything-ff7b72?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+<br>
+
+**2. A. For Ask me : [comment in here](https://github.com/omeans-team/omeans-team/issues/1)**
+<br>
+<br>
+
+**2. B. For Request :**
+<br>
+**Click this [link](https://github.com/omeans-team/omeans-team/issues)**
+<br>
+<br>
+
+**For request Click New Issue**
+<br>
+![image](https://github.com/omeans-team/omeans-team/assets/47584746/7793a89f-47e9-4cb4-be4d-a1d06c3de01c)
+<br>
+<br>
+
+**Add title and description**
+<br>
+![image](https://github.com/omeans-team/omeans-team/assets/47584746/f9fd64c1-61c8-42e8-96cb-ba1b79924596)
+<br>
+<br>
+
+**Format title in below  :**
+```bash
+# Format (Sentence case label - Sentence case title)
+[Name_label] - Title
+
+*Label : only Request or Question
+Example :
+[Request] - Request feature link style in repo xyz
+```
+<br>
+<br>
+
 
 ## Use To Code
 
@@ -79,6 +196,7 @@
 ![Git](https://raw.githubusercontent.com/omeans-team/img/main/svg/GIT.svg)
 
 <br/>
+<br>
 
 ## Top Open Source -
 [![Amazing Animations Loading Block](https://github-readme-stats.vercel.app/api/pin/?username=omeans-team&repo=omeans-color-loading-animation-of-nine-blocks&border_color=E47909&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=E47909)](https://github.com/omeans-team/omeans-color-loading-animation-of-nine-blocks)
