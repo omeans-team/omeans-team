@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/018d937d-9efd-4e7c-a4ba-ff2f2235fff9.svg)](https://wakatime.com/@018d937d-9efd-4e7c-a4ba-ff2f2235fff9)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -48,8 +46,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: omeans-team.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/omeans-team/omeans-team/issues)
+ 📧 &emsp; Reach me anytime: [comment in here](https://github.com/omeans-team/omeans-team/issues/1)<br/><br/>
+ 💬 &emsp; Ask or request me about the github page [omeans-team.github.io](https://omeans-team.github.io/). Click this [link](https://github.com/omeans-team/omeans-team/issues)
 
 </p>
 
