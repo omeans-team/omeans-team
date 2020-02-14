@@ -89,7 +89,7 @@ This is usually needed to prepare for other steps in a GitHub Actions workflow.
 TOC generation with Github Actions
 ----------------------------------
 ## How To Ask or Request
-### <ol><li>For omeans-team.github.io</li></ol> For omeans-team.github.io
+### For omeans-team.github.io
 
 <p align="left">
   <a href="https://omeans-team.github.io/" target="_blank"><img alt="For this website (https://omeans-team.github.io/)" title="For this website (https://omeans-team.github.io/)" src="https://img.shields.io/badge/-For%20this%20website%20Omeans%20Team-e47909?style=for-the-badge&logo=koding&logoColor=white"/></a>
