@@ -1,3 +1,13 @@
+<!--
+<a href="https://raw.githubusercontent.com/omeans-team/omeans-team/master/license.txt"><img src="https://img.shields.io/github/license/jaid/action-npm-install?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/omeans-team"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor omeans-team"/></a>  
+<a href="https://actions-badge.atrox.dev/omeans-team/omeans-team/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Faction-npm-install%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/action-npm-install/commits"><img src="https://img.shields.io/github/commits-since/jaid/action-npm-install/v1.2.4?style=flat-square&logo=github" alt="Commits since v1.2.4"/></a> <a href="https://github.com/jaid/action-npm-install/commits"><img src="https://img.shields.io/github/last-commit/jaid/action-npm-install?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/action-npm-install/issues"><img src="https://img.shields.io/github/issues/jaid/action-npm-install?style=flat-square&logo=github" alt="Issues"/></a>  
+
+**GitHub Action for installing Node dependencies from package.json with the correct package manager automatically selected.**
+
+
+This is usually needed to prepare for other steps in a GitHub Actions workflow.
+-->
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -38,14 +48,6 @@
 </p>
 <br />
 
-<a href="https://raw.githubusercontent.com/omeans-team/omeans-team/master/license.txt"><img src="https://img.shields.io/github/license/jaid/action-npm-install?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/omeans-team"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor omeans-team"/></a>  
-<a href="https://actions-badge.atrox.dev/omeans-team/omeans-team/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Faction-npm-install%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/action-npm-install/commits"><img src="https://img.shields.io/github/commits-since/jaid/action-npm-install/v1.2.4?style=flat-square&logo=github" alt="Commits since v1.2.4"/></a> <a href="https://github.com/jaid/action-npm-install/commits"><img src="https://img.shields.io/github/last-commit/jaid/action-npm-install?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/action-npm-install/issues"><img src="https://img.shields.io/github/issues/jaid/action-npm-install?style=flat-square&logo=github" alt="Issues"/></a>  
-
-**GitHub Action for installing Node dependencies from package.json with the correct package manager automatically selected.**
-
-
-This is usually needed to prepare for other steps in a GitHub Actions workflow.
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -56,7 +58,7 @@ This is usually needed to prepare for other steps in a GitHub Actions workflow.
     <li>
       <a href="#how-to-ask-or-request">How To Ask or Request</a>
       <ul>
-        <li><a href="#for-omeans-team.github.io">For omeans-team.github.io</a></li>
+        <li><a href="#1-for-omeans-teamgithubio">For omeans-team.github.io</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -89,7 +91,7 @@ This is usually needed to prepare for other steps in a GitHub Actions workflow.
 TOC generation with Github Actions
 ----------------------------------
 ## How To Ask or Request
-### For omeans-team.github.io
+### 1. For omeans-team.github.io
 
 <p align="left">
   <a href="https://omeans-team.github.io/" target="_blank"><img alt="For this website (https://omeans-team.github.io/)" title="For this website (https://omeans-team.github.io/)" src="https://img.shields.io/badge/-For%20this%20website%20Omeans%20Team-e47909?style=for-the-badge&logo=koding&logoColor=white"/></a>
