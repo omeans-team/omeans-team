@@ -59,11 +59,11 @@ This is usually needed to prepare for other steps in a GitHub Actions workflow.
       <a href="#how-to-ask-or-request">How To Ask or Request</a>
       <ul>
         <li><a href="#1-for-omeans-teamgithubio">For omeans-team.github.io</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#2-for-anything">For Anything</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#use-to-code">Use To Code</a></li>
+    <li><a href="#top-open-source">Top Open Source</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
