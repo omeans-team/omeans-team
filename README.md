@@ -51,7 +51,22 @@ This is usually needed to prepare for other steps in a GitHub Actions workflow.
 <br />
     
 ## Topics
-     
+<a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
+  <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=playstation&logoColor=white" alt="Logo"/>
+  <img src="https://img.shields.io/badge/Play%20Station-007bff?style=flat-square" alt="Play Station"/>
+</a>
+<a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
+  <img src="https://img.shields.io/badge/-Play%20Station-007bff?style=flat-square&logo=playstation&logoColor=white&logoWidth=20&logoAlign=left&backgroundColor=gray" alt="Play Station"/>
+</a>
+<a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A5-Play%20Station-007bff?style=flat-square&logo=playstation&logoColor=white&logoWidth=20&logoAlign=left&backgroundColor=gray" alt="Play Station"/>
+</a>
+<a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
+  <img src="https://img.shields.io/badge/-Play%20Station-007bff?style=flat-square&logo=playstation&logoColor=white&logoWidth=20&logoAlign=left" alt="Play Station"/>
+</a>
+  <a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
+  <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs" alt="omeans-team"/>
+  </a>     
  <a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
   <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="omeans-team"/>
   </a> 
