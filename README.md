@@ -49,6 +49,18 @@ This is usually needed to prepare for other steps in a GitHub Actions workflow.
   </a> 
 </p>
 <br />
+    
+## Topics
+     
+ <a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
+  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="omeans-team"/>
+  </a> 
+ <a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
+  <img src="https://img.shields.io/github/followers/omeans-team.svg?style=social" alt="omeans-team"  />
+  </a> 
+    <br>
+    <br>
+    <br>
 
 <!-- TABLE OF CONTENTS -->
 <details>
