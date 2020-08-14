@@ -17,6 +17,16 @@ I'm a **Full Stack Web Developer** from **Majalengka, West Java, Indonesia**, sp
 - **Open Source Contributions** - Sharing knowledge with the developer community
 
 ---
+ 
+## Open to Collaboration
+ 
+I'm actively open to collaboration on both platforms:
+ 
+- **GitHub** — [github.com/omeans-team](https://github.com/omeans-team) — public repositories, open source work
+- **GitLab** — [gitlab.com/arishadisopiyan](https://gitlab.com/arishadisopiyan) — private project collaboration, client work, enterprise engagements
+If you have a project that could use a second set of hands — whether it's a greenfield build, a legacy migration, or a security layer — feel free to reach out. I respond within a few hours.
+ 
+---
 
 ## 💼 Professional Portfolio Template Business
 
