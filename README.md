@@ -46,22 +46,17 @@
 
 This is usually needed to prepare for other steps in a GitHub Actions workflow.
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-me">About me</a>
-      <ul>
-        <li><a href="#toc-generation-with-github-actions">TOC generation with Github Actions</a></li>
-      </ul>
     </li>
     <li>
-      <a href="### Use To Code">## Use To Code</a>
+      <a href="#how-to-ask-or-request">How To Ask or Request</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#for-omeans-team.github.io">For omeans-team.github.io</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -94,7 +89,7 @@ This is usually needed to prepare for other steps in a GitHub Actions workflow.
 TOC generation with Github Actions
 ----------------------------------
 ## How To Ask or Request
-### 1. For omeans-team.github.io
+### <ol><li>For omeans-team.github.io</li></ol> For omeans-team.github.io
 
 <p align="left">
   <a href="https://omeans-team.github.io/" target="_blank"><img alt="For this website (https://omeans-team.github.io/)" title="For this website (https://omeans-team.github.io/)" src="https://img.shields.io/badge/-For%20this%20website%20Omeans%20Team-e47909?style=for-the-badge&logo=koding&logoColor=white"/></a>
