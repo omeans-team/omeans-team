@@ -53,9 +53,9 @@ This is usually needed to prepare for other steps in a GitHub Actions workflow.
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#toc-generation-with-github-actions">TOC generation with Github Actions</a>
+      <a href="#about-me">About me</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#toc-generation-with-github-actions">TOC generation with Github Actions</a></li>
       </ul>
     </li>
     <li>
