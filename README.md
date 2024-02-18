@@ -72,8 +72,8 @@ This is usually needed to prepare for other steps in a GitHub Actions workflow.
 </details>
 
 <!-- About Section -->
+ # [Omeans Team](https://omean-steam.github.io/)
  # About me
- 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
