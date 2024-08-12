@@ -51,31 +51,29 @@ This is usually needed to prepare for other steps in a GitHub Actions workflow.
 <br />
     
 ## Topics
-<a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
-  <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=playstation&logoColor=white" alt="Logo"/>
-  <img src="https://img.shields.io/badge/Play%20Station-007bff?style=flat-square" alt="Play Station"/>
-</a>
-<a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
-  <img src="https://img.shields.io/badge/-Play%20Station-007bff?style=flat-square&logo=playstation&logoColor=white&logoWidth=20&logoAlign=left&backgroundColor=gray" alt="Play Station"/>
-</a>
-<a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A5-Play%20Station-007bff?style=flat-square&logo=playstation&logoColor=white&logoWidth=20&logoAlign=left&backgroundColor=gray" alt="Play Station"/>
-</a>
-<a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
-  <img src="https://img.shields.io/badge/-Play%20Station-007bff?style=flat-square&logo=playstation&logoColor=white&logoWidth=20&logoAlign=left" alt="Play Station"/>
-</a>
-  <a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
-  <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs" alt="omeans-team"/>
-  </a>     
- <a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="omeans-team"/>
-  </a> 
- <a href="https://github.com/topics/portfolio-aris-hadisopiyan" target="_blank">
-  <img src="https://img.shields.io/github/followers/omeans-team.svg?style=social" alt="omeans-team"  />
-  </a> 
-    <br>
-    <br>
-    <br>
+<summary>Web Development</summary>
+<a href="https://github.com/topics/html-css" target="_blank"><img src="https://img.shields.io/badge/-HTML/CSS-orange?logo=html5&logoColor=white&logoWidth=20&style=plastic" alt="HTML/CSS"/></a>
+<a href="https://github.com/topics/reactjs" target="_blank"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=20&style=plastic" alt="React Js"/></a>
+<a href="https://github.com/topics/javascript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&logoWidth=20&style=plastic" alt="JavaScript"/></a>
+<a href="https://github.com/topics/angular" target="_blank"><img src="https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white&logoWidth=20&style=plastic" alt="Angular"/></a>
+<a href="https://github.com/topics/vuejs" target="_blank"><img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&logoWidth=20&style=plastic" alt="Vue Js"/></a>
+
+<summary>Programming Languages</summary>
+<a href="https://github.com/topics/python" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=20&style=plastic" alt="Python"/></a>
+<a href="https://github.com/topics/java" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=20&style=plastic" alt="Java"/></a>
+<a href="https://github.com/topics/cpp" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&logoWidth=20&style=plastic" alt="C++"/></a>
+<a href="https://github.com/topics/csharp" target="_blank"><img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&logoWidth=20&style=plastic" alt="C#"/></a>
+<a href="https://github.com/topics/ruby" target="_blank"><img src="https://img.shields.io/badge/-Ruby-CC0000?logo=ruby&logoColor=white&logoWidth=20&style=plastic" alt="Ruby"/></a>
+
+<summary>Databases</summary>
+<a href="https://github.com/topics/mysql" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=20&style=plastic" alt="MySQL"/></a>
+<a href="https://github.com/topics/postgresql" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&logoWidth=20&style=plastic" alt="PostgreSQL"/></a>
+<a href="https://github.com/topics/mongodb" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=20&style=plastic" alt="MongoDB"/></a>
+
+
+<br>
+<br>
+<br>
 
 <!-- TABLE OF CONTENTS -->
 <details>
