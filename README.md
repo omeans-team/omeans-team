@@ -1,289 +1,175 @@
-<!--
-<a href="https://raw.githubusercontent.com/omeans-team/omeans-team/master/license.txt"><img src="https://img.shields.io/github/license/jaid/action-npm-install?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/omeans-team"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor omeans-team"/></a>  
-<a href="https://actions-badge.atrox.dev/omeans-team/omeans-team/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Faction-npm-install%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/action-npm-install/commits"><img src="https://img.shields.io/github/commits-since/jaid/action-npm-install/v1.2.4?style=flat-square&logo=github" alt="Commits since v1.2.4"/></a> <a href="https://github.com/jaid/action-npm-install/commits"><img src="https://img.shields.io/github/last-commit/jaid/action-npm-install?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/action-npm-install/issues"><img src="https://img.shields.io/github/issues/jaid/action-npm-install?style=flat-square&logo=github" alt="Issues"/></a>  
+# 👋 Hello, I'm Aris Hadisopiyan
 
-**GitHub Action for installing Node dependencies from package.json with the correct package manager automatically selected.**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Portfolio+Template+Creator;AI+Protection+Expert;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
+---
 
-This is usually needed to prepare for other steps in a GitHub Actions workflow.
--->
+## 🚀 About Me
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://omeans-team.github.io">Omeans Team</a></b>
-        </samp>
-</h3>
+I'm a **Full Stack Web Developer** from **Majalengka, West Java, Indonesia**, specializing in creating professional portfolio templates with advanced AI protection systems. With expertise in modern web technologies, I help freelancers, agencies, and businesses establish their online presence with secure, scalable solutions.
 
+### 🎯 What I Do
+- **Portfolio Template Development** - Professional templates with AI protection
+- **Full Stack Web Applications** - End-to-end development solutions
+- **License Management Systems** - Secure commercial licensing solutions
+- **Open Source Contributions** - Sharing knowledge with the developer community
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=omeans_team">「 Google Me 」</a>
-    <br>
-    <a href="https://github.com/topics/portfolio-aris-hadisopiyan">「 Check My Portfolio 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Indonesia</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+---
 
-<p align="center">
- <a href="https://omeans-team.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="omeans-team" />
- </a>
- <a href="https://linkedin.com/in/arishadisopiyan" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="omeans-team"/>
- </a>
- <!-- <a href="https://dev.to/omeans-team" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="omeans-team" />
- </a> -->
- <a href="https://twitter.com/omeans_team" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/omeans_team" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="omeans-team" />
- </a> 
- <a href="https://facebook.com/omeans-team.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="omeans-team"  />
-  </a> 
-</p>
-<br />
-    
-## Topics
-<summary>Web Development</summary>
-<a href="https://github.com/topics/html-css" target="_blank"><img src="https://img.shields.io/badge/-HTML/CSS-orange?logo=html5&logoColor=white&logoWidth=20&style=plastic" alt="HTML/CSS"/></a>
-<a href="https://github.com/topics/reactjs" target="_blank"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=20&style=plastic" alt="React Js"/></a>
-<a href="https://github.com/topics/javascript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&logoWidth=20&style=plastic" alt="JavaScript"/></a>
-<a href="https://github.com/topics/angular" target="_blank"><img src="https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white&logoWidth=20&style=plastic" alt="Angular"/></a>
-<a href="https://github.com/topics/vuejs" target="_blank"><img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&logoWidth=20&style=plastic" alt="Vue Js"/></a>
+## 💼 Professional Portfolio Template Business
 
-<summary>Programming Languages</summary>
-<a href="https://github.com/topics/python" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=20&style=plastic" alt="Python"/></a>
-<a href="https://github.com/topics/java" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=20&style=plastic" alt="Java"/></a>
-<a href="https://github.com/topics/cpp" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&logoWidth=20&style=plastic" alt="C++"/></a>
-<a href="https://github.com/topics/csharp" target="_blank"><img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&logoWidth=20&style=plastic" alt="C#"/></a>
-<a href="https://github.com/topics/ruby" target="_blank"><img src="https://img.shields.io/badge/-Ruby-CC0000?logo=ruby&logoColor=white&logoWidth=20&style=plastic" alt="Ruby"/></a>
+### 🛡️ Featured Project: Professional Portfolio Template with AI Protection
 
-<summary>Databases</summary>
-<a href="https://github.com/topics/mysql" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=20&style=plastic" alt="MySQL"/></a>
-<a href="https://github.com/topics/postgresql" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&logoWidth=20&style=plastic" alt="PostgreSQL"/></a>
-<a href="https://github.com/topics/mongodb" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=20&style=plastic" alt="MongoDB"/></a>
+I've created a comprehensive portfolio template system that includes:
 
+- **AI-Powered Protection** - Automatic detection of unauthorized use
+- **License Management** - Complete commercial licensing system
+- **Security Features** - Advanced protection against tampering
+- **Professional Design** - Modern, responsive portfolio layouts
 
-<br>
-<br>
-<br>
+**Repository:** [professional-portfolio-template-with-ai-protection](https://github.com/omeans-team/professional-portfolio-template-with-ai-protection)
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-me">About me</a>
-    </li>
-    <li>
-      <a href="#how-to-ask-or-request">How To Ask or Request</a>
-      <ul>
-        <li><a href="#1-for-omeans-teamgithubio">For omeans-team.github.io</a></li>
-        <li><a href="#2-for-anything">For Anything</a></li>
-      </ul>
-    </li>
-    <li><a href="#use-to-code">Use To Code</a></li>
-    <li><a href="#top-open-source">Top Open Source</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#---------hey-there-i-am----------------omeans-team--------">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+### 📦 License Options
+- **Freelancer License** - $99 (Up to 10 client projects)
+- **Agency License** - $299 (Unlimited client projects)
+- **Enterprise License** - $599 (White-label rights)
+- **Marketplace License** - $1,999 (Resale rights)
 
-<!-- About Section -->
- # [Omeans Team](https://omean-steam.github.io/)
- # About me
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### **Backend Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omeans-team&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omeans-team&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+### 1. Professional Portfolio Template with AI Protection
+**A comprehensive portfolio template with advanced security features**
+- 🔒 AI-powered protection system
+- 📊 License management dashboard
+- 🛡️ Anti-tampering mechanisms
+- 💼 Commercial licensing options
+
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omeans-team/professional-portfolio-template-with-ai-protection)
+
+### 2. License Management System
+**Complete solution for managing software licenses**
+- 🔑 License key generation
+- 📈 Usage analytics
+- 🚨 Violation detection
+- 💰 Revenue tracking
+
+### 3. Web Development Projects
+**Full-stack applications and websites**
+- 🌐 E-commerce platforms
+- 📱 Progressive Web Apps
+- 🔧 API development
+- 🎨 UI/UX design
+
+---
+
+## 💼 Business Services
+
+### **Portfolio Template Licensing**
+I offer professional portfolio templates with comprehensive licensing options:
+
+| License Type | Price | Best For | Features |
+|-------------|-------|----------|----------|
+| **Freelancer** | $99 | Individual freelancers | Up to 10 projects, Email support |
+| **Agency** | $299 | Design agencies | Unlimited projects, Priority support |
+| **Enterprise** | $599 | Large companies | White-label rights, Source code |
+| **Marketplace** | $1,999 | Template marketplaces | Resale rights, Unlimited distribution |
+
+### **Custom Development**
+- **Custom Features** - Tailored to your needs
+- **Branding Integration** - Your brand colors and logos
+- **Performance Optimization** - Speed and SEO improvements
+- **Ongoing Support** - Continuous assistance
+
+---
+
+## 📞 Get In Touch
+
+<div align="center">
+  <a href="https://linkedin.com/in/arishadisopiyan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aris.hadisopiyan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/6282199275053" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/omeans-team" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+### **For License Purchases:**
+- 📧 **Email:** aris.hadisopiyan@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/arishadisopiyan](https://linkedin.com/in/arishadisopiyan)
+- 📱 **WhatsApp:** +62 821-9927-5053
+- ⏰ **Response Time:** Within 4 hours
+
+---
+
+## 🌟 What Clients Say
+
+> *"Aris delivered an exceptional portfolio template with advanced protection features. The licensing system is comprehensive and the support is outstanding."* - **Design Agency Owner**
+
+> *"The AI protection system is brilliant. It gives us peace of mind knowing our work is secure."* - **Freelance Developer**
+
+> *"Professional quality, excellent documentation, and great customer service. Highly recommended!"* - **Startup Founder**
+
+---
+
+## 📈 Recent Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omeans-team&theme=radical" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omeans-team&style=flat-square&color=6366F1" alt="Profile Views" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: [comment in here](https://github.com/omeans-team/omeans-team/issues/1)<br/><br/>
- 💬 &emsp; Ask or request me about the github page [omeans-team.github.io](https://omeans-team.github.io/). Click this [link](https://github.com/omeans-team/omeans-team.github.io/issues)
-
-</p>
-
-<br>
-
-<p align="right">
-  <a href="#---------hey-there-i-am----------------omeans-team--------"><img alt="Back To Top" title="Back To Top" src="https://img.shields.io/badge/-Back%20To%20Top-ff0000?style=for-the-badge&logoColor=white"/></a>
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## How To Ask or Request
-### 1. For omeans-team.github.io
-
-<p align="left">
-  <a href="https://omeans-team.github.io/" target="_blank"><img alt="For this website (https://omeans-team.github.io/)" title="For this website (https://omeans-team.github.io/)" src="https://img.shields.io/badge/-For%20this%20website%20Omeans%20Team-e47909?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-<br>
-
-**Click this [link](https://github.com/omeans-team/omeans-team.github.io/issues)**
-<br>
-<br>
-
-**Click New Issue**
-<br>
-![image](https://github.com/omeans-team/omeans-team/assets/47584746/7793a89f-47e9-4cb4-be4d-a1d06c3de01c)
-<br>
-<br>
-
-**Add title and description**
-<br>
-![image](https://github.com/omeans-team/omeans-team/assets/47584746/f9fd64c1-61c8-42e8-96cb-ba1b79924596)
-<br>
-<br>
-
-**Format title in below  :**
-```bash
-# Format (Sentence case label - Sentence case title)
-[Name_label] - Title
-
-*Name_label : Bug/Improvement/New Feature/Question/Request
-Example :
-[Improvement] - Improve navigation
-```
-
-<br>
-
-<p align="right">
-  <a href="#---------hey-there-i-am----------------omeans-team--------"><img alt="Back To Top" title="Back To Top" src="https://img.shields.io/badge/-Back%20To%20Top-ff0000?style=for-the-badge&logoColor=white"/></a>
-</p>
-
-<br/>
-<br/>
-
-### 2. For anything
-
-<p align="left">
-  <a href="https://github.com/omeans-team" target="_blank"><img alt="For anything" title="For anything" src="https://img.shields.io/badge/-For%20anything-ff7b72?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-<br>
-
-**2. A. For Ask me : [comment in here](https://github.com/omeans-team/omeans-team/issues/1)**
-<br>
-<br>
-
-**2. B. For Request :**
-<br>
-**Click this [link](https://github.com/omeans-team/omeans-team/issues)**
-<br>
-<br>
-
-**For request Click New Issue**
-<br>
-![image](https://github.com/omeans-team/omeans-team/assets/47584746/7793a89f-47e9-4cb4-be4d-a1d06c3de01c)
-<br>
-<br>
-
-**Add title and description**
-<br>
-![image](https://github.com/omeans-team/omeans-team/assets/47584746/f9fd64c1-61c8-42e8-96cb-ba1b79924596)
-<br>
-<br>
-
-**Format title in below  :**
-```bash
-# Format (Sentence case label - Sentence case title)
-[Name_label] - Title
-
-*Label : only Request or Question
-Example :
-[Request] - Request feature link style in repo xyz
-```
-
-<br>
-
-<p align="right">
-  <a href="#---------hey-there-i-am----------------omeans-team--------"><img alt="Back To Top" title="Back To Top" src="https://img.shields.io/badge/-Back%20To%20Top-ff0000?style=for-the-badge&logoColor=white"/></a>
-</p>
-
-
-<br>
-<br>
-
-
-## Use To Code
-
-![Javascript](https://raw.githubusercontent.com/omeans-team/img/main/svg/JAVASCRIPT.svg)
-![Typescript](https://raw.githubusercontent.com/omeans-team/img/main/svg/TYPESCRIPT.svg)
-![React](https://raw.githubusercontent.com/omeans-team/img/main/svg/REACT.svg)
-![React Native](https://raw.githubusercontent.com/omeans-team/img/main/svg/REACT-NATIVE.svg)
-![Next.js](https://raw.githubusercontent.com/omeans-team/img/main/svg/NEXT-JS.svg)
-![Nodejs](https://raw.githubusercontent.com/omeans-team/img/main/svg/NODEJS.svg)
-![Express.js](https://raw.githubusercontent.com/omeans-team/img/main/svg/EXPRESS-JS.svg)
-![MongoDB](https://raw.githubusercontent.com/omeans-team/img/main/svg/MONGODB.svg)
-![HTML](https://raw.githubusercontent.com/omeans-team/img/main/svg/HTML5.svg)
-![CSS3](https://raw.githubusercontent.com/omeans-team/img/main/svg/CSS3.svg)
-![SASS Badge](https://raw.githubusercontent.com/omeans-team/img/main/svg/SASS.svg)
-![Ant-Design](https://raw.githubusercontent.com/omeans-team/img/main/svg/ANTDESIGN.svg)
-![Tailwind](https://raw.githubusercontent.com/omeans-team/img/main/svg/TAILWIND-CSS.svg)
-![Bootstrap](https://raw.githubusercontent.com/omeans-team/img/main/svg/BOOTSTRAP.svg)
-![Strapi](https://raw.githubusercontent.com/omeans-team/img/main/svg/STRAPI.svg)
-![Markdown](https://raw.githubusercontent.com/omeans-team/img/main/svg/MARKDOWN.svg)
-![Redux](https://raw.githubusercontent.com/omeans-team/img/main/svg/REDUX.svg)
-![React Query](https://raw.githubusercontent.com/omeans-team/img/main/svg/REACT-QUERY.svg)
-![VSCode](https://raw.githubusercontent.com/omeans-team/img/main/svg/VISUAL-STUDIO.svg)
-![Git](https://raw.githubusercontent.com/omeans-team/img/main/svg/GIT.svg)
-
-
-<br>
-
-<p align="right">
-  <a href="#---------hey-there-i-am----------------omeans-team--------"><img alt="Back To Top" title="Back To Top" src="https://img.shields.io/badge/-Back%20To%20Top-ff0000?style=for-the-badge&logoColor=white"/></a>
-</p>
-
-<br/>
-<br>
-
-## Top Open Source -
-[![Amazing Animations Loading Block](https://github-readme-stats.vercel.app/api/pin/?username=omeans-team&repo=omeans-color-loading-animation-of-nine-blocks&border_color=E47909&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=E47909)](https://github.com/omeans-team/omeans-color-loading-animation-of-nine-blocks)
-[![Chat GPT With PhpMysql](https://github-readme-stats.vercel.app/api/pin/?username=omeans-team&repo=ChatGptPhpMySql&border_color=E47909&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=E47909)](https://github.com/omeans-team/ChatGptPhpMySql)
-[![3D Models Web Views](https://github-readme-stats.vercel.app/api/pin/?username=omeans-team&repo=Arishadisopiyan3DModelsView&border_color=E47909&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=E47909)](https://github.com/omeans-team/Arishadisopiyan3DModelsView)
-[![Omeans Team Readme](https://github-readme-stats.vercel.app/api/pin/?username=omeans-team&repo=omeans-team&border_color=E47909&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=E47909)](https://github.com/omeans-team/omeans-team)
-
-<p align="left">
-  <a href="https://github.com/omeans-team?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/omeans-team">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omeans-team&theme=radical&border=E47909&background=0D1117" alt="Omeans Team"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/omeans-team">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omeans-team&theme=radical" alt="Omeans Team's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/omeans-team"><img alt="Omeans Team's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=omeans-team&show_icons=true&count_private=true&theme=react&border_color=E47909&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/omeans-team"><img alt="Omeans Team's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=omeans-team&langs_count=8&layout=compact&theme=react&border_color=E47909&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Omeans Team's Graph](https://github-readme-activity-graph.vercel.app/graph?username=omeans-team&custom_title=Omeans%20Team's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=E47909&line=E47909&point=E47909&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<br>
-
-<p align="right">
-  <a href="#---------hey-there-i-am----------------omeans-team--------"><img alt="Back To Top" title="Back To Top" src="https://img.shields.io/badge/-Back%20To%20Top-ff0000?style=for-the-badge&logoColor=white"/></a>
-</p>
+  **Thanks for visiting my profile! Feel free to reach out for collaboration or license inquiries.** 🚀
+</div> 
